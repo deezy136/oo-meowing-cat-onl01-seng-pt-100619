@@ -4,11 +4,11 @@ class Cat
   attr_accessor = :name 
   
   def name=(name)
-    :name = name 
+    self.name = name 
   end
   
   def name 
-    :name 
+    self.name
   end 
   def meow
     puts "meow!"
