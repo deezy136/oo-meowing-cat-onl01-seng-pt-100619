@@ -3,7 +3,7 @@ class Cat
   
   attr_accessor = :name 
   
-  def name 
+  def name=(name)
     :name
   end
   
