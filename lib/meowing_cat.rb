@@ -13,4 +13,4 @@ class Cat
   
 end 
 
-new_instance = Cat.name("one")
+new_instance = Cat.name
